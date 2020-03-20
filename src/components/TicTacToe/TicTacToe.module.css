@@ -1,0 +1,15 @@
+.TicTacToe td{
+  text-align: center;
+  font-size: 56px;
+  height: 72px;
+  width: 72px;
+  border: 1px solid black;
+  margin: 0;
+  padding: 0;
+}
+
+.TicTacToe button {
+    font-size: 36px;
+    display: block;
+    margin: 16px;
+}
